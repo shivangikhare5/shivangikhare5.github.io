@@ -1,6 +1,6 @@
 ## About Me
 ---
-I am a 2nd year M.Tech student in Computational and Data Science Department ([CDS])(http://cds.iisc.ac.in) at [IISc](https://iisc.ac.in), Bengaluru. I am part of the Video Analytics Lab ([VAL])(http://val.serc.iisc.ernet.in/valweb/index.html) led by [Prof. R. Venkatesh Babu](http://cds.iisc.ac.in/faculty/venky/)
+I am a 2nd year M.Tech student in Computational and Data Science Department ([CDS](http://cds.iisc.ac.in)) at [IISc](https://iisc.ac.in), Bengaluru. I am part of the Video Analytics Lab ([VAL](http://val.serc.iisc.ernet.in/valweb/index.html)) led by [Prof. R. Venkatesh Babu](http://cds.iisc.ac.in/faculty/venky/)
 
 For my M.Tech thesis, I am working on Adversarial Robustness of Deep Neural Networks. 
 
