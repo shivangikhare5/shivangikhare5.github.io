@@ -1,6 +1,6 @@
 ## About Me
 ---
-I am a 2nd year M.Tech student in Computational and Data Science Department [CDS](http://cds.iisc.ac.in) at [IISc](https://iisc.ac.in), Bengaluru. I am part of the Video Analytics Lab [VAL](http://val.serc.iisc.ernet.in/valweb/index.html) led by [Prof. R. Venkatesh Babu](http://cds.iisc.ac.in/faculty/venky/)
+I am a 2nd year M.Tech student in Computational and Data Science Department ([CDS])(http://cds.iisc.ac.in) at [IISc](https://iisc.ac.in), Bengaluru. I am part of the Video Analytics Lab ([VAL])(http://val.serc.iisc.ernet.in/valweb/index.html) led by [Prof. R. Venkatesh Babu](http://cds.iisc.ac.in/faculty/venky/)
 
 For my M.Tech thesis, I am working on Adversarial Robustness of Deep Neural Networks. 
 
@@ -15,15 +15,26 @@ For my M.Tech thesis, I am working on Adversarial Robustness of Deep Neural Netw
 
 ## Awards
 ---
-  - __IASc-INSA-NASI Summer Research Fellowship Award__ 2016
+  IASc-INSA-NASI Summer Research Fellowship Award 2016
   
 ## Projects 
-
 ---
 
 ### DS 200 -  Research Methods
-##### Module 4: Visulatization of datasets using Matplotlib
-[github repository](https://github.com/shivangikhare5/ds200).  
+##### Module 4: Literature Review and Software Tooling
+[DS200](https://github.com/shivangikhare5/ds200)
+
+---
+---
+
+##### SSIM based adversarial training
+Proposed a novel SSIM based adversarial training to achieve adversarial robustnessfor classification models in alignment to human perception.
+
+---
+---
+
+##### Graph Visualization using GraphTSNE
+Visualized graph-structured data using a variant of t-SNE and Graph Neural Network.
 
 ---
 ___
