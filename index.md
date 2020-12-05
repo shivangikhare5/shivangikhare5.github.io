@@ -18,8 +18,6 @@ For my M.Tech thesis, I am working on Adversarial Robustness of Deep Neural Netw
 
 
 ## Projects 
----
-
   - __DS 200 -  Research Methods__ \
   Module 4: Literature Review and Software Tooling : [DS200](https://github.com/shivangikhare5/ds200)
 
@@ -29,7 +27,6 @@ For my M.Tech thesis, I am working on Adversarial Robustness of Deep Neural Netw
   - __Graph Visualization using GraphTSNE:__ \
   Visualized graph-structured data using a variant of t-SNE and Graph Neural Network.
 
----
 ___
 ### Contact
 Mail Id: [shivangik@iisc.ac.in](mailto:shivangik@iisc.ac.in) \
