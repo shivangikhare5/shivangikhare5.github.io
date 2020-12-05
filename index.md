@@ -1,11 +1,11 @@
 ## About Me
----
+--
 I am a 2nd year M.Tech student in Computational and Data Science Department ([CDS](http://cds.iisc.ac.in)) at [IISc](https://iisc.ac.in), Bengaluru. I am part of the Video Analytics Lab ([VAL](http://val.serc.iisc.ernet.in/valweb/index.html)) led by [Prof. R. Venkatesh Babu](http://cds.iisc.ac.in/faculty/venky/)
 
 For my M.Tech thesis, I am working on Adversarial Robustness of Deep Neural Networks. 
 
 ## Education
----
+--
   - __M.Tech. in Computational and Data Sciences__ \
     [Indian Institute of Science, Bengaluru](https://iisc.ac.in/) \
     2019 - Present
@@ -16,8 +16,9 @@ For my M.Tech thesis, I am working on Adversarial Robustness of Deep Neural Netw
 ## Awards
   IASc-INSA-NASI Summer Research Fellowship Award 2016
 
----
+
 ## Projects 
+--
 
 ### DS 200 -  Research Methods
 ##### Module 4: Literature Review and Software Tooling
@@ -56,7 +57,6 @@ You can also find me on [![alt text][3.1]][1] and [![alt text][2.1]][2]
 
 [1]: https://github.com/shivangikhare5
 [2]: https://www.linkedin.com/in/shivangi-khare/
-[3]: 
 
 
 ---
