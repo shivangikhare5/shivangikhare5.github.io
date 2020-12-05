@@ -18,7 +18,7 @@ For my M.Tech thesis, I am working on Adversarial Robustness of Deep Neural Netw
 
 
 ## Projects 
-  - __DS 200 -  Research Methods__ \
+  - __DS 200 - Research Methods__ \
   Module 4: Literature Review and Software Tooling : [DS200](https://github.com/shivangikhare5/ds200)
 
   - __SSIM based adversarial training:__ \
@@ -26,6 +26,13 @@ For my M.Tech thesis, I am working on Adversarial Robustness of Deep Neural Netw
 
   - __Graph Visualization using GraphTSNE:__ \
   Visualized graph-structured data using a variant of t-SNE and Graph Neural Network.
+
+## Experience 
+  - __Practical Trainee__: \
+  Development of an FPGA based high performance framework for Encryption Accel-erators and RSA Integer Multiplier.  Achieved better performance than all genericIntel processors at [BARC](http://barc.gov.in/)
+
+  - __Research Intern (IASc-SRFP):__ \
+  Implemented different No-reference and Full-reference Image Quality Assessment Al-gorithms which scores quality of a given image at [IIT H](https://iith.ac.in/)
 
 ___
 ### Contact
