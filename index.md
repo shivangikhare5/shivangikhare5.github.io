@@ -29,10 +29,10 @@ For my M.Tech thesis, I am working on Adversarial Robustness of Deep Neural Netw
 
 ## Experience 
   - __Practical Trainee__: \
-  Development of an FPGA based high performance framework for Encryption Accel-erators and RSA Integer Multiplier.  Achieved better performance than all genericIntel processors at [BARC](http://barc.gov.in/)
+  Development of an FPGA based high performance framework for Encryption Accelerators and RSA Integer Multiplier.  Achieved better performance than all genericIntel processors at [BARC](http://barc.gov.in/)
 
   - __Research Intern (IASc-SRFP):__ \
-  Implemented different No-reference and Full-reference Image Quality Assessment Al-gorithms which scores quality of a given image at [IIT H](https://iith.ac.in/)
+  Implemented different No-reference and Full-reference Image Quality Assessment Algorithms which scores quality of a given image at [IIT H](https://iith.ac.in/)
 
 ___
 ### Contact
