@@ -14,15 +14,15 @@ For my M.Tech thesis, I am working on Adversarial Robustness of Deep Neural Netw
     2014 - 2018
 
 ## Awards
-  IASc-INSA-NASI Summer Research Fellowship Award 2016
-  Member of the Indian Youth Delegation to China 2016
+  * IASc-INSA-NASI Summer Research Fellowship Award 2016
+  * Member of the Indian Youth Delegation to China 2016
 
 
 ## Projects 
-  - __DS 200 - Research Methods__ \
+  ### __DS 200 - Research Methods__ \
   Module 4: Literature Review and Software Tooling : [DS200](https://github.com/shivangikhare5/ds200)
-   Data Analysis and visualisation using data from [](data.gov.in/)
-   Literature Review related to research thesis.
+   * Data Analysis and visualisation using data from [](data.gov.in/)
+   * Literature Review related to research thesis.
 
   - __SSIM based adversarial training:__ \
    Proposed a novel SSIM based adversarial training to achieve adversarial robustness for classification models in alignment to human perception.
@@ -38,8 +38,8 @@ For my M.Tech thesis, I am working on Adversarial Robustness of Deep Neural Netw
    Achieved better performance than all genericIntel processors at [BARC](http://barc.gov.in/)
 
   - __Research Intern (IASc-SRFP):__ \
-   -Implemented different No-reference and Full-reference Image Quality Assessment Algorithms which scores quality of a given image at [IIT H](https://iith.ac.in/)
-   -Particular emphasis on SSIM and NIQE.
+   Implemented different No-reference and Full-reference Image Quality Assessment Algorithms which scores quality of a given image at [IIT H](https://iith.ac.in/)
+   Particular emphasis on SSIM and NIQE.
 
 ___
 ### Contact
