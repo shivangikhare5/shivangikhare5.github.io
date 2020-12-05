@@ -21,7 +21,7 @@ For my M.Tech thesis, I am working on Adversarial Robustness of Deep Neural Netw
 ## Projects 
   #### DS 200 - Research Methods:
   Module 4: Literature Review and Software Tooling : [DS200](https://github.com/shivangikhare5/ds200)
-   * Data Analysis and visualisation using data from [](data.gov.in/)
+   * Data Analysis and visualisation using data from [data.gov.in](data.gov.in/)
    * Literature Review related to research thesis.
 
   #### SSIM based adversarial training:
