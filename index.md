@@ -2,7 +2,7 @@
 ---
 I am a 2nd year M.Tech student in Computational and Data Science Department ([CDS](http://cds.iisc.ac.in)) at [IISc](https://iisc.ac.in), Bengaluru. I am part of the Video Analytics Lab ([VAL](http://val.serc.iisc.ernet.in/valweb/index.html)) led by [Prof. R. Venkatesh Babu](http://cds.iisc.ac.in/faculty/venky/)
 
-For my M.Tech thesis, I am working on Adversarial Robustness of Deep Neural Networks. 
+For my M.Tech thesis, I am working on Adversarial Robustness of Deep Neural Networks. [Useful tutorial](https://adversarial-ml-tutorial.org/)
 
 ## Education
 ---
@@ -14,8 +14,8 @@ For my M.Tech thesis, I am working on Adversarial Robustness of Deep Neural Netw
     2014 - 2018
 
 ## Awards
-  * IASc-INSA-NASI Summer Research Fellowship Award 2016
-  * Member of the Indian Youth Delegation to China 2016
+  * IASc-INSA-NASI Summer Research Fellowship Award (2016)
+  * Member of the Indian Youth Delegation to China (2016)
 
 
 ## Projects 
@@ -35,7 +35,7 @@ For my M.Tech thesis, I am working on Adversarial Robustness of Deep Neural Netw
 ## Experience 
 #### Practical Trainee:
    * Development of an FPGA based high performance framework for Encryption Accelerators and RSA Integer Multiplier.
-   * Achieved better performance than all genericIntel processors at [BARC](http://barc.gov.in/)
+   * Achieved better performance than all generic Intel processors at [BARC](http://barc.gov.in/)
 
 #### Research Intern (IASc-SRFP):
    * Implemented different No-reference and Full-reference Image Quality Assessment Algorithms which scores quality of a given image at [IIT H](https://iith.ac.in/)
