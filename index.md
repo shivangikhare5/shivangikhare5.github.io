@@ -1,4 +1,4 @@
-## Personal webpage
+## Shivangi Khare
 
 ---
 
