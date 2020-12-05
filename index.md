@@ -19,16 +19,16 @@ For my M.Tech thesis, I am working on Adversarial Robustness of Deep Neural Netw
 
 
 ## Projects 
-  ### __DS 200 - Research Methods__ \
+  #### DS 200 - Research Methods
   Module 4: Literature Review and Software Tooling : [DS200](https://github.com/shivangikhare5/ds200)
    * Data Analysis and visualisation using data from [](data.gov.in/)
    * Literature Review related to research thesis.
 
-  - __SSIM based adversarial training:__ \
+  #### __SSIM based adversarial training:__ \
    Proposed a novel SSIM based adversarial training to achieve adversarial robustness for classification models in alignment to human perception.
    Achieved better performance than standard PGD adversarial training against all White-Box attacks.
 
-  - __Graph Visualization using GraphTSNE:__ \
+  #### __Graph Visualization using GraphTSNE:__ \
    Visualized graph-structured data using a variant of t-SNE and Graph Neural Network.
    Achieved highest 1-NN accuracy and minimum total feature distance between nodes in lower dimension embedding.
 
