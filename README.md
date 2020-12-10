@@ -1,4 +1,4 @@
-The portfolio website ([shivangikhare5.github.io](shivangikhare5.github.io)) is designed by the tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
+The portfolio website ([shivangikhare5.github.io](https://shivangikhare5.github.io/)) is designed by the tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
 ___
 
 ### References
