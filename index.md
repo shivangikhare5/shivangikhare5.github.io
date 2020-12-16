@@ -16,6 +16,7 @@ For my M.Tech thesis, I am working on Adversarial Robustness of Deep Neural Netw
 ## Awards
   * IASc-INSA-NASI Summer Research Fellowship Award (2016)
   * Member of the Indian Youth Delegation to China (2016)
+  * Gold Medal in IMO (2012)
 
 
 ## Projects 
