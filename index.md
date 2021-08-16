@@ -1,14 +1,14 @@
 ## About Me
 ---
-I am a 2nd year M.Tech student in Computational and Data Science Department ([CDS](http://cds.iisc.ac.in)) at [IISc](https://iisc.ac.in), Bengaluru. I am part of the Video Analytics Lab ([VAL](https://val.cds.iisc.ac.in/)) led by [Prof. R. Venkatesh Babu](http://cds.iisc.ac.in/faculty/venky/)
+I did my M.Tech in Computational and Data Science Department ([CDS](http://cds.iisc.ac.in)) at [IISc](https://iisc.ac.in), Bengaluru. I was a part of the Video Analytics Lab ([VAL](https://val.cds.iisc.ac.in/)) led by [Prof. R. Venkatesh Babu](http://cds.iisc.ac.in/faculty/venky/)
 
-For my M.Tech thesis, I am working on Adversarial Robustness of Deep Neural Networks. ([Hands-on tutorial](https://adversarial-ml-tutorial.org/))
+For my M.Tech thesis, I worked on Adversarial Robustness of Deep Neural Networks. ([Hands-on tutorial](https://adversarial-ml-tutorial.org/))
 
 ## Education
 ---
   - __M.Tech. in Computational and Data Sciences__ \
     [Indian Institute of Science, Bengaluru](https://iisc.ac.in/) \
-    2019 - Present
+    2019 - 2021
   - __B.Tech. in ECE__ \
     [Indian Institute of Information Technology,Design & Manufacturing,Jabalpur](https://www.iiitdmj.ac.in/) \
     2014 - 2018
@@ -19,11 +19,11 @@ For my M.Tech thesis, I am working on Adversarial Robustness of Deep Neural Netw
   * Gold Medal in IMO (2012)
 
 
-## Projects 
+<!-- ## Projects 
 #### DS 200 - Research Methods:
   Module 4: Literature Review and Software Tooling : [DS200](https://github.com/shivangikhare5/ds200)
    * Data Analysis and visualisation using data from [data.gov.in](data.gov.in/)
-   * Literature Review related to research thesis.
+   * Literature Review related to research thesis. -->
 
 #### SSIM based adversarial training:
    * Proposed a novel SSIM based adversarial training to achieve adversarial robustness for classification models in alignment to human perception.
