@@ -44,8 +44,8 @@ For my M.Tech thesis, I worked on Adversarial Robustness of Deep Neural Networks
 
 ___
 ### Contact
-Mail Id: [shivangik@iisc.ac.in](mailto:shivangik@iisc.ac.in) \
-You can also find me on [![alt text][3.1]][1] and [![alt text][2.1]][2]
+<!-- Mail Id: [shivangik@iisc.ac.in](mailto:shivangik@iisc.ac.in) \ -->
+You can find me on [![alt text][3.1]][1] and [![alt text][2.1]][2]
 
 
 <!-- links to social media icons -->
