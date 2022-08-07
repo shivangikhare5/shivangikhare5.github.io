@@ -1,5 +1,6 @@
 ## About Me
 ---
+Currently working as Member of Technical Staff in Oracle Health & AI. Designing Healthcare systems using NLP.
 I did my M.Tech in Computational and Data Science Department ([CDS](http://cds.iisc.ac.in)) at [IISc](https://iisc.ac.in), Bengaluru. I was a part of the Video Analytics Lab ([VAL](https://val.cds.iisc.ac.in/)) led by [Prof. R. Venkatesh Babu](http://cds.iisc.ac.in/faculty/venky/)
 
 For my M.Tech thesis, I worked on Adversarial Robustness of Deep Neural Networks. ([Hands-on tutorial](https://adversarial-ml-tutorial.org/))
